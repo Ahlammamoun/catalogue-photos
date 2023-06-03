@@ -1,0 +1,28 @@
+body {
+    background-color: darkred !important;
+    background-image: "../im";
+    background-image: linear-gradient(rgba(255, 0, 64, 0.5), rgb(36, 36, 6)), url("../../media/examples/lizard.png");
+}
+
+ul.nav.justify-content-center {
+    background-color: black;
+}
+
+.nav.justify-content-center {
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-style: italic;
+    background: linear-gradient( rgb(36, 36, 6) , rgba(255, 0, 64, 0.5));
+    font-size: 14px !important;
+}
+
+a.btn {
+    color: white;
+}
+
+a.nav-link.active {
+    color: white;
+}
